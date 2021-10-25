@@ -1,0 +1,22 @@
+h3 {
+  font-size: 37px;
+  margin-bottom: 95px;
+}
+#counter {
+  font-size: 63px;
+  letter-spacing: 0.2em;
+  margin-left: 42px;
+  margin-bottom: 95px;
+}
+.gap {
+  display: flex;
+  gap: 10px;
+}
+.gap .style {
+  width: 170px;
+  height: 90px;
+  font-size: 25px;
+  font-weight: bold;
+  border: 2px solid gray;
+  border-radius: 5px;
+}
